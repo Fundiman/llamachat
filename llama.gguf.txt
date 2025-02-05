@@ -1,0 +1,1 @@
+To get the LlaMA model that is most compatible with our script, Download the model from url: 
